@@ -1,5 +1,6 @@
 export default function Card(props) {
     const { image, name, setRandomCards } = props;
+
     return (
         <div className="card">
             <button onClick={setRandomCards}>

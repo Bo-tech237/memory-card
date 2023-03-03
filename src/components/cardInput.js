@@ -4,7 +4,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/tiger.jpg'),
-                alt: 'card',
+                alt: 'tiger',
             },
             name: 'tiger',
         },
@@ -12,7 +12,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/chameleon.jpg'),
-                alt: 'card',
+                alt: 'chameleon',
             },
             name: 'chameleon',
         },
@@ -20,7 +20,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/cheetahs.jpg'),
-                alt: 'card',
+                alt: 'cheetahs',
             },
             name: 'cheetahs',
         },
@@ -36,7 +36,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/rhinoceros.jpg'),
-                alt: 'card',
+                alt: 'rhinoceros',
             },
             name: 'rhinoceros',
         },
@@ -44,7 +44,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/giraffe.jpg'),
-                alt: 'card',
+                alt: 'giraffe',
             },
             name: 'giraffe',
         },
@@ -52,7 +52,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/monkey-mandril.jpg'),
-                alt: 'card',
+                alt: 'monkey mandril',
             },
             name: 'monkey mandril',
         },
@@ -60,7 +60,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/buffalo.jpg'),
-                alt: 'card',
+                alt: 'buffalo',
             },
             name: 'buffalo',
         },
@@ -68,7 +68,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/fox.jpg'),
-                alt: 'card',
+                alt: 'fox',
             },
             name: 'fox',
         },
@@ -76,7 +76,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/elephant.jpg'),
-                alt: 'card',
+                alt: 'elephant',
             },
             name: 'elephant',
         },
@@ -84,7 +84,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/peacock.jpg'),
-                alt: 'card',
+                alt: 'peacock',
             },
             name: 'peacock',
         },
@@ -92,7 +92,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/ostrich.jpg'),
-                alt: 'card',
+                alt: 'ostrich',
             },
             name: 'ostrich',
         },
@@ -100,7 +100,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/zebra.jpg'),
-                alt: 'card',
+                alt: 'zebra',
             },
             name: 'zebra',
         },
@@ -108,7 +108,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/primate-ape.jpg'),
-                alt: 'card',
+                alt: 'primate ape',
             },
             name: 'primate ape',
         },
@@ -116,7 +116,7 @@ function cardInput() {
             id: crypto.randomUUID(),
             img: {
                 src: require('../assets/penguins.jpg'),
-                alt: 'card',
+                alt: 'penguins',
             },
             name: 'penguins',
         },
