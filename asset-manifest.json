@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-card/static/css/main.2e3188d0.css",
+    "main.css": "/memory-card/static/css/main.6a308d3c.css",
     "main.js": "/memory-card/static/js/main.7486ccf5.js",
     "static/media/cheetahs.jpg": "/memory-card/static/media/cheetahs.b1f37d0b72c4f2279482.jpg",
     "static/media/rhinoceros.jpg": "/memory-card/static/media/rhinoceros.b1fcd8b8b080a8a06777.jpg",
@@ -18,11 +18,11 @@
     "static/media/penguins.jpg": "/memory-card/static/media/penguins.d59d6fdc55e45c1b5f43.jpg",
     "static/media/primate-ape.jpg": "/memory-card/static/media/primate-ape.00f3884ea52fbc359db3.jpg",
     "index.html": "/memory-card/index.html",
-    "main.2e3188d0.css.map": "/memory-card/static/css/main.2e3188d0.css.map",
+    "main.6a308d3c.css.map": "/memory-card/static/css/main.6a308d3c.css.map",
     "main.7486ccf5.js.map": "/memory-card/static/js/main.7486ccf5.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e3188d0.css",
+    "static/css/main.6a308d3c.css",
     "static/js/main.7486ccf5.js"
   ]
 }
